@@ -58,6 +58,7 @@ ________________________________________________________________________________
 # 4) Conclusões
 
 Após analisar todos os dados, observa-se que o registro de ocorrência de crimes em São Paulo reduziu entre os anos de 2019 e 2020 e isso se deu, principalmente, pela pandemia de covid-19, cujo período de isolamento fez com que o número de pessoas nas ruas diminuísse, os comércios se mantivessem fechados e, consequentemente, as taxas de criminalidade fossem menores, e por 2020 ter sido um ano de campanha eleitoral, em que vários projetos foram realizados, uma vez que teve eleição municipal e estadual.
+
 Quando analisa-se os dados pela perspectiva da localização geográfica das delegacias com maiores números de registros de crimes, nos deparamos com um grande problema social, onde as regiões mais atingidas pelos roubos e furtos fazem parte da área central histórica de São Paulo e estão diretamente ligados a cracolândia, um caso complexo que envolve questões sociais, de saúde pública e segurança, mas que devido a problemas como a dependência química em grande parte de sua população traduzem a quantidade de furtos e roubos no entorno.
 
 
