@@ -37,6 +37,36 @@ De 2019 para 2020 houve uma redução de 476,2 mil crimes para 373,8 mil, em tor
 
 ![Número total de crimes por ano](https://github.com/user-attachments/assets/e9302a9e-a44f-4a70-8038-4515ccbcd71e)
 
+Quando a gente analisa o cenário da época, temos dois momentos extremamente importantes, apesar de existir diversas possibilidades para essa variação ter acontecido. O primeiro deles é que o ano de 2020 ficou marcado pela pandemia de covid-19 com vários períodos longos de isolamento, com uma quantidade menor de pessoas circulando pelas ruas e o comércio fechado, fato que com certeza impactou na redução das ocorrências criminais. Nesse mesmo ano, tivemos as mudanças políticas devido às eleições municipais e estaduais, por ser um ano de campanha, possivelmente também contribuiu para essa redução.
+
+Por sua vez, quando analisamos os tipos de crimes em cada ano, é notável que os furtos por região e os roubos se destacam ao representarem mais de 75% de todos os tipos de crimes registrados nos anos de 2019 e 2020, seguidos dos furtos de veículo e da lesão corporal dolosa.
+Entre um ano e outro, tivemos uma redução de 226.566 furtos registrados para 164.444 e tivemos a redução de 137.369 roubos registrados para 124.552. A redução de furtos correspondeu a 27,4%, enquanto que a redução dos roubos foi de apenas 9,3%, e mais uma vez pensando nos longos períodos de isolamento social acarretados pela pandemia de covid-19, é perceptível a relação entre os crimes e o período de transição entre esses dois anos.
+
+![Tipo e quantidade de crimes registrados por ano](https://github.com/user-attachments/assets/db5bbe13-ffe8-4379-8fcf-cec474f640d4)
+
+Entre as regiões com mais furtos nesse período estão Campos Elísios, Sé, Jardins e Pari e entre 2019 e 2020 os Jardins tiveram a maior redução de furtos entre elas. 
+
+![Quantidade de furtos por delegacia](https://github.com/user-attachments/assets/256275d5-8cc7-46ed-9935-2abbc6e4d2e6)
+
+Já entre as regiões com mais roubos nesse período estão Campos Elísios, Capão Redondo, Campo Limpo e Sé.
+ 
+![Quantidade de roubos por delegacia](https://github.com/user-attachments/assets/d538d29f-d217-4307-be40-17e213975bae)
+
+Quando buscamos entender a cidade de São Paulo geograficamente, vemos que Campos Elísios e Sé ficam na região do centro histórico onde também está a cracolândia. A cracolândia é conhecida pelo intenso consumo de crack e pela presença de usuários de drogas, um problema social e uma área extremamente vulnerável, o que explica os altos números de registro de crimes nessas regiões.
+
+____________________________________________________________________________________________________________________________________________
+# 4) Conclusões
+
+Após analisar todos os dados, observa-se que o registro de ocorrência de crimes em São Paulo reduziu entre os anos de 2019 e 2020 e isso se deu, principalmente, pela pandemia de covid-19, cujo período de isolamento fez com que o número de pessoas nas ruas diminuísse, os comércios se mantivessem fechados e, consequentemente, as taxas de criminalidade fossem menores, e por 2020 ter sido um ano de campanha eleitoral, em que vários projetos foram realizados, uma vez que teve eleição municipal e estadual.
+Quando analisa-se os dados pela perspectiva da localização geográfica das delegacias com maiores números de registros de crimes, nos deparamos com um grande problema social, onde as regiões mais atingidas pelos roubos e furtos fazem parte da área central histórica de São Paulo e estão diretamente ligados a cracolândia, um caso complexo que envolve questões sociais, de saúde pública e segurança, mas que devido a problemas como a dependência química em grande parte de sua população traduzem a quantidade de furtos e roubos no entorno.
+
+
+
+
+
+
+
+
 
 
 
